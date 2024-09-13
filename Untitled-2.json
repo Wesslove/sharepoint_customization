@@ -1,0 +1,75 @@
+{
+    "sections": [
+        {
+            "displayname": "SOCIETE / AGENCE",
+            "fields": [
+                "Société",
+                "Directeur/Responsable Agence",
+                "Département / Service",
+                "Sectionanalytique",
+                "CodeSectionanalytique",
+                "Agence"
+            ]
+        },
+        {
+            "displayname": "BENEFICIAIRE",
+            "fields": [
+                "Prénom",
+                "Nom",
+                "Fonction / Echelon / Coef",
+                "Motifdemande",
+                "Typedemande",
+                "Identificationduvéhiculeactuel",
+                "Numéro de parc",
+                "Immatriculation",
+                "Kilométrage",
+                "Etat général du véhicule",
+                "Roulant",
+                "Pièces jointes",
+                "Responsable Demandeur"
+            ]
+        },
+        {
+            "displayname": "VEHICULE",
+            "fields": [
+                "Type de véhicule demandé",
+                "Utilisation du véhicule demandé",
+                "Estimatif KM Annuel",
+                "Environnement routier majoritaire",
+                "Descriptif du parcours quotidien",
+                "Carte Carburant",
+                "Badge Télépéage"
+            ]
+        },
+        {
+            "displayname": "LIVRAISON / Délai minimum de livraison (5 semaines après validation)",
+            "fields": [
+                "Date souhaitée"
+            ],
+            "extraText": "Délai mini + 5 semaines après validation Direction"
+        },
+        {
+            "displayname": "",
+            "fields": [
+                "Responsable Ressources Humaines",
+                "Choix de la catégorie",
+                "Responsable Matériel",
+                "Direction"
+            ]
+        },
+        {
+            "displayname": "",
+            "fields": [
+                "Proposition 1",
+                "Proposition 2",
+                "Proposition 3"
+            ]
+        },
+        {
+            "displayname": "",
+            "fields": [
+                "Choix final du véhicule"
+            ]
+        }
+    ]
+}
